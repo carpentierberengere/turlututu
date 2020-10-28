@@ -1,0 +1,10 @@
+a{
+    color:lightgray;
+
+}
+a:hover{
+    color-adjust: grey;
+}
+a:visited{
+    color:darkgrey;
+}
