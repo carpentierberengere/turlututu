@@ -71,7 +71,33 @@ h1{
     justify-content: center;
     background-color: white;
     align-items: center;
+    font-size: 50px;
 }
+.LienBleu{
+    color: white;
+    background-color: #0B5F89;
+    padding: 15px;
+    margin-right: 15px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    text-align: center;
+    font-size: large;
+
+}
+.LienJaune{
+    color: white;
+    background-color: orange;
+    padding: 15px;
+    margin-right: 15px;
+    height:50px;
+    border-radius:15px;
+    border:none;
+    text-align:center;
+    font-size: large;
+}
+
+
 footer{
     background-color: #303334 ;
     display: flex;
