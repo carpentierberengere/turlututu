@@ -14,10 +14,11 @@ header{
 }
 .img_header{
     justify-self: center;
+    max-width: 60%;
 }
 nav{
-    background-color: #303334;
-    color:white;
+    background-color: #303334; 
+    color: white;
     text-align:center;
     font-size:15px;
     padding:10px;
@@ -62,6 +63,7 @@ h1{
     border-style: solid;
     border-color: white;
     border-width: 1px;
+    border-radius: 15px;
 
 }
 .LINKS{
