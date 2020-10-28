@@ -30,3 +30,8 @@ nav{
     width:inherit;
     text-align: center;
 }
+footer{
+    font-size: small;
+    color: lightgrey;
+    background-color: black;
+}
