@@ -3,6 +3,7 @@ html{
     font-family:'Encode Sans Semi Condensed', sans-serif;
     color: white;
     font-size: 15px;
+
 }
 header{
     display:flex;
@@ -10,6 +11,9 @@ header{
     align-items:center;
     padding-left: 100px;
     display:flex;
+}
+.img_header{
+    justify-self: center;
 }
 nav{
     background-color: #303334;
@@ -29,6 +33,43 @@ a{
 a:hover{
     color: orange;
 }
+.card1{
+    background-color: #2B93C7  ;
+    height: 300px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.PlayDatabase{
+    justify-content: center;
+    align-items:center;
+    display:flex;
+    flex-direction:column;
+}
+h1{
+   font-size: 30px; 
+   font-weight: 300px;
+}
+.building{
+    background-color: orange;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    height: 50px;
+    width: 250px;
+    margin-right: 15px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+
+}
+.LINKS{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    align-items: center;
+}
 footer{
     background-color: #303334 ;
     display: flex;
@@ -41,6 +82,7 @@ a.footer{
     text-align: center;
     border-left-color: whitesmoke;
     border-left-width: 1px;
+    height: 200px;
 }
 
 
