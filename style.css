@@ -151,6 +151,15 @@ h1{
 button{
     border-radius: 8px;
 }
+.LienBleu:hover{
+    color: blue;
+}
+.LienJaune:hover{
+    color: coral;
+}
+.building:hover{
+    color: coral;
+}
 
 
 footer{
@@ -166,6 +175,9 @@ a.footer{
     border-left-color: whitesmoke;
     border-left-width: 1px;
     height: 200px;
+}
+a.footer:hover{
+    color: orange;
 }
 
 
