@@ -9,8 +9,8 @@ header{
     display:flex;
     background-color:#303334 ;
     align-items:center;
+    justify-content: space-between;
     padding-left: 100px;
-    display:flex;
 }
 .img_header{
     justify-self: center;
