@@ -9,41 +9,42 @@ body{
     height:100%;
 }
 header{
-    display:flex;
-    background-color:#303334 ;
+    background-color: #303334 ;
+    display: flex;
     justify-content: space-between;
-    padding-left: 100px;
     height: 100px;
+    text-align: center;
+    padding-left:100px;
+}
+#header{
+    border-right: whitesmoke;
+    border-width: 2px;
+    background-color:#303334 ;
+    padding: 10px;
+    text-align: center;
+    border:none;
+    padding-top:10%;
+    
+}
+.header{
+    color:white;
+    padding-top: 50%;
 }
 .img_header{
-    justify-self: left;
-    max-width: 40%;
+    justify-content: left;
+    max-width: 40%;;
 }
-nav{
-    background-color: #303334; 
-    color: white;
-    text-align:center;
-    font-size:15px;
-    padding:10px;
-    justify-content: space-between;
-}
-a.header{
-    color: white;
-    padding:10px;
-    text-align: center;
-}
-a{
-    color: white;
-}
-a:hover{
+a.header:hover{
     color: orange;
 }
-.login{
-    color: white;
-    padding: 10px;
-    text-align: right;
-    justify-content: right;
-    margin-left: 600px;
+nav.login{
+     color: white;
+     font-weight: bold;
+     margin-left:600px ;
+     padding-top: 10px;
+}
+.login:hover{
+    color:orange;
 }
 .card1{
     background-color: #2B93C7  ;
@@ -180,10 +181,6 @@ footer{
     height: 100px;
 
 }
-.footer{
-    border-right: whitesmoke;
-    border-width: 2px;
-}
 a.footer{
     color: white;
     padding:10px;
@@ -191,6 +188,7 @@ a.footer{
     border-left-color: whitesmoke;
     border-left-width: 1px;
     height: 200px;
+    margin-top: 10px;
 }
 a.footer:hover{
     color: orange;
