@@ -39,7 +39,7 @@ a:hover{
     padding: 10px;
     text-align: right;
     justify-content: right;
-    margin-left: 600px;
+    margin-left: 1000px;
 }
 .card1{
     background-color: #2B93C7  ;
@@ -171,9 +171,10 @@ button{
 
 footer{
     background-color: #303334 ;
-    display: flex;
+    display: table-row;
     justify-content: space-between;
-    height: 40px;
+    height: 100px;
+
 }
 .footer{
     border-right: whitesmoke;
