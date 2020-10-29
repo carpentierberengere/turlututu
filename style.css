@@ -41,6 +41,7 @@ a:hover{
     justify-content: space-around;
     align-items: center;
 }
+
 .PlayDatabase{
     justify-content: center;
     align-items:center;
@@ -50,6 +51,27 @@ a:hover{
 h1{
    font-size: 30px; 
    font-weight: 300px;
+}
+.card2{
+    background-color:whitesmoke ;
+    justify-content: center;
+    display: flex;
+    height: 80px;
+    align-items: center;
+}
+.card3{
+    background-color:  #2B93C7 ;
+    height:300px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.para1-2{
+    margin-right: 50px;
+    margin-left: 80px;
+}
+.para3-4{
+    margin-right: 80px;
 }
 .building{
     background-color: orange;
