@@ -3,7 +3,10 @@ html{
     font-family:'Encode Sans Semi Condensed', sans-serif;
     color: white;
     font-size: 15px;
-    width:90%;
+    height: 100%;
+}
+body{
+    width:90%
 }
 header{
     display:flex;
