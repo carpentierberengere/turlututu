@@ -23,3 +23,6 @@ We learned to visualize and recreate a webpage, as well as some more css techniq
 * CSS3
 * This [Image](https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/turlututu.png?token=ARM2IOIM6WW3EWLL4CO4S6C7UPJP4)
 
+## Preview of my work
+
+![Preview](https://raw.githubusercontent.com/carpentierberengere/turlututu/main/preview.png)
