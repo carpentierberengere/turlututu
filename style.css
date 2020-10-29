@@ -76,6 +76,21 @@ h1{
 .para_texte{
     font-size:15px;
 }
+.card4{
+    background-color: whitesmoke;
+    justify-content: center;
+    display: flex;
+    height: 80px;
+    align-items: center;
+}
+.lastBlock{
+     background-color:#EEEEEE ;
+     justify-content: space-around;
+     display:flex;
+     flex-direction: column;
+     height:200px;
+     align-items:center;
+}
 
 .building{
     background-color: orange;
