@@ -34,6 +34,13 @@ a{
 a:hover{
     color: orange;
 }
+.login{
+    color: white;
+    padding: 10px;
+    text-align: right;
+    justify-content: right;
+    margin-left: 600px;
+}
 .card1{
     background-color: #2B93C7  ;
     height: 400px;
@@ -167,6 +174,10 @@ footer{
     display: flex;
     justify-content: space-between;
     height: 40px;
+}
+.footer{
+    border-right: whitesmoke;
+    border-width: 2px;
 }
 a.footer{
     color: white;
