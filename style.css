@@ -171,7 +171,7 @@ button{
 
 footer{
     background-color: #303334 ;
-    display: table-row;
+    display: flex;
     justify-content: space-between;
     height: 100px;
 
