@@ -14,7 +14,7 @@ header{
 }
 .img_header{
     justify-self: center;
-    max-width: 60%;
+    max-width: 40%;
 }
 nav{
     background-color: #303334; 
@@ -36,10 +36,14 @@ a:hover{
 }
 .card1{
     background-color: #2B93C7  ;
-    height: 300px;
+    height: 400px;
     display:flex;
     justify-content: space-around;
     align-items: center;
+    contain: content;
+}
+.BigLogo{
+    max-width: 50%;
 }
 
 .PlayDatabase{
@@ -52,12 +56,20 @@ h1{
    font-size: 30px; 
    font-weight: 300px;
 }
+.whiteGrey{
+    color: darkgrey;
+    font-weight: 200;
+}
 .card2{
     background-color:whitesmoke ;
     justify-content: center;
     display: flex;
     height: 80px;
     align-items: center;
+}
+.middle{
+    color: black;
+    font-weight: 200;
 }
 .card3{
     background-color:  #2B93C7 ;
@@ -99,12 +111,13 @@ h1{
     text-align: center;
     padding: 15px;
     height: 50px;
-    width: 250px;
+    width: 235px;
     margin-right: 15px;
     border-style: solid;
     border-color: white;
     border-width: 1px;
-    border-radius: 15px;
+    border-radius: 8px;
+
 
 }
 .LINKS{
@@ -120,7 +133,6 @@ h1{
     padding: 15px;
     margin-right: 15px;
     height: 50px;
-    border-radius: 15px;
     border: none;
     text-align: center;
     font-size: large;
@@ -132,10 +144,12 @@ h1{
     padding: 15px;
     margin-right: 15px;
     height:50px;
-    border-radius:15px;
     border:none;
     text-align:center;
     font-size: large;
+}
+button{
+    border-radius: 8px;
 }
 
 
