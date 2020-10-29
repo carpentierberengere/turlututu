@@ -73,6 +73,10 @@ h1{
 .para3-4{
     margin-right: 80px;
 }
+.para_texte{
+    font-size:15px;
+}
+
 .building{
     background-color: orange;
     color:white;
