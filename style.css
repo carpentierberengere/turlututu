@@ -8,9 +8,9 @@ html{
 header{
     display:flex;
     background-color:#303334 ;
-    align-items:center;
     justify-content: space-between;
     padding-left: 100px;
+    height: 100px;
 }
 .img_header{
     justify-self: center;
@@ -39,7 +39,7 @@ a:hover{
     padding: 10px;
     text-align: right;
     justify-content: right;
-    margin-left: 1000px;
+    margin-left: 600px;
 }
 .card1{
     background-color: #2B93C7  ;
