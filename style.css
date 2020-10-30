@@ -8,6 +8,11 @@ html{
 body{
     height:100%;
 }
+nav{
+    padding:0;
+    margin:0;
+    text-align:center;
+}
 header{
     background-color: #303334 ;
     display: flex;
@@ -28,7 +33,11 @@ header{
 }
 .header{
     color:white;
-    padding-top: 50%;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block;
+    list-style: none;
+    margin: 0 30px;
 }
 .img_header{
     justify-content: left;
@@ -37,11 +46,16 @@ header{
 a.header:hover{
     color: orange;
 }
-nav.login{
-     color: white;
+.login{
      font-weight: bold;
      margin-left:600px ;
-     padding-top: 10px;
+     display: inline-block;
+     list-style: none;
+     margin: 0 30px;
+     color: white;
+}
+#login{
+    color:white;
 }
 .login:hover{
     color:orange;
