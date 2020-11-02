@@ -25,4 +25,4 @@ We learned to visualize and recreate a webpage, as well as some more css techniq
 
 ## Preview of my work
 
-![Preview](https://raw.githubusercontent.com/carpentierberengere/turlututu/main/preview.png)
+![Preview](preview2.png)
