@@ -204,5 +204,10 @@ a.footer{
 a.footer:hover{
     color: orange;
 }
+.rights{
+    margin-left:600px;
+    display: inline-block;
+    margin: 0 30px;
+}
 
 
