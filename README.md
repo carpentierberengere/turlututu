@@ -15,7 +15,7 @@ We also rebuild the HTML squeletton and the CSS stylesheet to match the original
 
 ## What did we learn ?
 
-We learned to visualize and recreate a webpage, as well as some more css techniques. 
+We learned to visualize and recreate a webpage, as well as some more CSS/HTML techniques, such as the navigation menu bar. 
 
 ## What did we use ?
 
