@@ -82,6 +82,7 @@ h1{
 .whiteGrey{
     color: darkgrey;
     font-weight: 200;
+    font-size: 20px;
 }
 .card2{
     background-color:whitesmoke ;
@@ -147,6 +148,7 @@ h1{
     display: flex;
     justify-content: center;
     background-color: white;
+    height: 200px;
     align-items: center;
     font-size: 50px;
 }
