@@ -43,6 +43,9 @@ header{
     justify-content: left;
     max-width: 40%;;
 }
+a{
+    text-decoration:none;
+}
 a.header:hover{
     color: orange;
 }
@@ -52,6 +55,7 @@ a.header:hover{
     display: inline-block;
     list-style: none;
     margin: 0 30px;
+    text-decoration:none;
 }
 .login:hover{
     color: orange;
