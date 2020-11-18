@@ -1,4 +1,4 @@
-# HTML/CSS Exerice - Turlututu Homepage Rebuild
+# HTML/CSS Exercice - Turlututu Homepage Rebuild
 
 This exercice was made by [**Bérengère Carpentier**](https://github.com/carpentierberengere/ "GitHub Profile")
 
